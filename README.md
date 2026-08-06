@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Portfolio Live](https://img.shields.io/badge/🚀_PORTFOLIO-gracianb.github.io%2Fpersonal--deck-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/personal-deck/)
+[![Portfolio Live](https://img.shields.io/badge/🚀_PORTFOLIO-gracianb.github.io%2Fprofessional--deck-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/professional-deck/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gracianbaena-0A66C2?style=for-the-badge&labelColor=080909&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracianbaena)
 [![Agenda 30 min](https://img.shields.io/badge/📅_Agenda-30_min-ffffff?style=for-the-badge&labelColor=080909)](https://calendar.app.google/n99psBFktwYyoAWi9)
 [![CV ES](https://img.shields.io/badge/CV-Español-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/sobre-mi/CV_Gracian_Baena_2026_ES.pdf)
@@ -219,7 +219,7 @@ _Criterios de uso · hábitos de equipo_
 
 | Portfolio | URL | Descripción |
 |:----------|:----|:------------|
-| 💼 Corporativo | [gracianb.github.io/sobre-mi](https://gracianb.github.io/personal-deck/) | CS · Data · AI · ES/EN bilingüe |
+| 💼 Corporativo | [gracianb.github.io/professional-deck](https://gracianb.github.io/professional-deck/) | CS · Data · AI · ES/EN bilingüe |
 | 🧘 Yoga | [gracianb.github.io/yoga-instructor](https://gracianb.github.io/yoga-instructor/) | Wellness · facilitación · instructor |
 
 ---
@@ -228,7 +228,7 @@ _Criterios de uso · hábitos de equipo_
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/01_Portfolio-Abrir_→-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/personal-deck/)
+[![Portfolio](https://img.shields.io/badge/01_Portfolio-Abrir_→-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/professional-deck/)
 [![Agenda](https://img.shields.io/badge/02_Agenda-30_min_→-ffffff?style=for-the-badge&labelColor=080909)](https://calendar.app.google/n99psBFktwYyoAWi9)
 [![LinkedIn](https://img.shields.io/badge/03_LinkedIn-Connect_→-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080909)](https://www.linkedin.com/in/gracianbaena)
 [![Email](https://img.shields.io/badge/04_Email-Escribir_→-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080909)](mailto:gracianbaenagonzalez@gmail.com)
