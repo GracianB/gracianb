@@ -41,6 +41,12 @@
 
 </div>
 
+## Portfolio live
+
+> Deck interactivo **bilingüe ES/EN** · 12 slides · scroll-snap · command palette (Ctrl+K) · recruiter mode · experience dialogs · interactive route map.
+
+### 👉 [**Abrir portfolio →**](https://gracianb.github.io/GracianB/)
+
 ---
 
 ## 🧠 Quién soy · Mi diferencial
