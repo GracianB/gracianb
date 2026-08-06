@@ -228,7 +228,7 @@ _Criterios de uso · hábitos de equipo_
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/01_Portfolio-Abrir_→-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/sobre-mi/)
+[![Portfolio](https://img.shields.io/badge/01_Portfolio-Abrir_→-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/personal-deck/)
 [![Agenda](https://img.shields.io/badge/02_Agenda-30_min_→-ffffff?style=for-the-badge&labelColor=080909)](https://calendar.app.google/n99psBFktwYyoAWi9)
 [![LinkedIn](https://img.shields.io/badge/03_LinkedIn-Connect_→-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080909)](https://www.linkedin.com/in/gracianbaena)
 [![Email](https://img.shields.io/badge/04_Email-Escribir_→-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080909)](mailto:gracianbaenagonzalez@gmail.com)
