@@ -219,9 +219,8 @@ _Criterios de uso · hábitos de equipo_
 
 | Portfolio | URL | Descripción |
 |:----------|:----|:------------|
-| 💼 Corporativo | [gracianb.github.io/sobre-mi](https://gracianb.github.io/sobre-mi/) | CS · Data · AI · ES/EN bilingüe |
+| 💼 Corporativo | [gracianb.github.io/sobre-mi](https://gracianb.github.io/personal-deck/) | CS · Data · AI · ES/EN bilingüe |
 | 🧘 Yoga | [gracianb.github.io/yoga-instructor](https://gracianb.github.io/yoga-instructor/) | Wellness · facilitación · instructor |
-| 🔗 Hub | [gracianb.github.io/Karmapp](https://gracianb.github.io/Karmapp/) | Corporate + Yoga en un solo lugar |
 
 ---
 
