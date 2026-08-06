@@ -13,8 +13,8 @@
 [![Portfolio Live](https://img.shields.io/badge/🚀_PORTFOLIO-gracianb.github.io%2Fyoga--deck-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/yoga-instructor/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gracianbaena-0A66C2?style=for-the-badge&labelColor=080909&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracianbaena)
 [![Agenda 30 min](https://img.shields.io/badge/📅_Agenda-30_min-ffffff?style=for-the-badge&labelColor=080909)](https://calendar.app.google/n99psBFktwYyoAWi9)
-[![CV ES](https://img.shields.io/badge/CV-Español-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/sobre-mi/CV_Gracian_Baena_2026_ES.pdf)
-[![CV EN](https://img.shields.io/badge/CV-English-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/sobre-mi/CV_Gracian_Baena_2026_EN.pdf)
+[![CV ES](https://img.shields.io/badge/CV-Español-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/professional-deck/CV_Gracian_Baena_2026_ES.pdf)
+[![CV EN](https://img.shields.io/badge/CV-English-f3d437?style=for-the-badge&labelColor=080909)](https://gracianb.github.io/professional-deck/CV_Gracian_Baena_2026_EN.pdf)
 
 </div>
 
